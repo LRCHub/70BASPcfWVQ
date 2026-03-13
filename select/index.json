@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Blame",
+  "base_artist": "Calvin Harris",
+  "createdAt": "2026-03-13T10:50:43.955142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blame It On The Weather",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Blame_It_On_The_Weather_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blame It On Being Young",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/02_Blame_It_On_Being_Young_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blame It On Me",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/03_Blame_It_On_Me_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blame It On Mexico",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/04_Blame_It_On_Mexico_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blame It On Mexico (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/05_Blame_It_On_Mexico_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blame It On Texas",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/06_Blame_It_On_Texas_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blame It On Texas (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/07_Blame_It_On_Texas_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blame It On You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/08_Blame_It_On_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blame It On You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/09_Blame_It_On_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blame It on Your Heart",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/10_Blame_It_on_Your_Heart_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blame It On Your Heart (Album Version)",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/11_Blame_It_On_Your_Heart_(Album_Version)_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blame It On The Stones",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/12_Blame_It_On_The_Stones_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dad Blame Anything A Man Can't Quit",
+      "artist": "Roger Miller",
+      "has_synced": false,
+      "path": "select/13_Dad_Blame_Anything_A_Man_Can't_Quit_Roger_Miller.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dad Blame Anything A Man Can't Quit (Album Version)",
+      "artist": "Roger Miller",
+      "has_synced": false,
+      "path": "select/14_Dad_Blame_Anything_A_Man_Can't_Quit_(Album_Version)_Roger_Miller.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Blame It On Whiskey",
+      "artist": "Jon Pardi feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/15_Don't_Blame_It_On_Whiskey_Jon_Pardi_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Blame It On Whiskey",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/16_Don't_Blame_It_On_Whiskey_Jon_Pardi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blame",
+      "artist": "Calvin Harris",
+      "has_synced": false,
+      "path": "select/pl_01_Blame_Calvin_Harris.txt"
+    }
+  ]
+}
